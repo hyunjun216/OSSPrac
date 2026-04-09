@@ -7,3 +7,4 @@ print("<출력>")
 print(f"이름: {name}")
 print(f"학번: {student_id}")
 print(f"학과: {department}")
+# 수정 체크
