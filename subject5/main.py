@@ -5,6 +5,7 @@ school = input("학교를 입력하세요: ")
 grade = input("학년을 입력하세요: ")
 
 print()
+print()
 print("<출력>")
 print(f"이름: {name}")
 print(f"학번: {student_id}")
